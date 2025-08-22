@@ -7,7 +7,7 @@ Este é um projeto simples de uma lista de tarefas (To-Do List) desenvolvida com
 * **Adicionar Tarefas:** Digite uma nova tarefa e clique no botão "Adicionar".
 * **Marcar como Concluída:** Clique em uma tarefa na lista para marcá-la como concluída. A tarefa será riscada.
 * **Remover Tarefas:** Clique no ícone 'x' ao lado de uma tarefa para removê-la da lista.
-* **Modo Escuro:** Alterne o tema da aplicação para o modo escuro clicando no ícone de sol/lua no canto superior direito. A preferência do modo escuro é salva no navegador.
+* **Modo Escuro:** Alterne o tema da aplicação para o modo escuro clicando no ícone de lua no canto superior direito. A preferência do modo escuro é salva no navegador.
 
 ## Tecnologias Utilizadas
 

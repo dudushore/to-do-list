@@ -1,48 +1,49 @@
-# To-Do List - Com Modo Escuro
+# To-Do List - With Dark Mode
 
-Este é um projeto simples de uma lista de tarefas (To-Do List) desenvolvida com HTML, CSS e JavaScript. A principal funcionalidade é permitir que o usuário adicione e remova tarefas, marque-as como concluídas e alterne entre o modo claro e escuro.
+This is a simple To-Do List project developed with HTML, CSS, and JavaScript. The main functionality is to allow users to add and remove tasks, mark them as complete, and switch between light and dark modes.
 
-## Funcionalidades
+## Features
 
-* **Adicionar Tarefas:** Digite uma nova tarefa e clique no botão "Adicionar".
-* **Marcar como Concluída:** Clique em uma tarefa na lista para marcá-la como concluída. A tarefa será riscada.
-* **Remover Tarefas:** Clique no ícone 'x' ao lado de uma tarefa para removê-la da lista.
-* **Modo Escuro:** Alterne o tema da aplicação para o modo escuro clicando no ícone de lua no canto superior direito. A preferência do modo escuro é salva no navegador.
+* **Add Tasks:** Type a new task and click the "Add" button.
+* **Mark as Complete:** Click a task in the list to mark it as complete. The task will be crossed out.
+* **Remove Tasks:** Click the 'x' icon next to a task to remove it from the list.
+* **Dark Mode:** Toggle the application's theme to dark mode by clicking the moon icon in the top right corner. The dark mode preference is saved in the browser's local storage.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-* **HTML:** Estrutura básica da página.
-* **CSS:** Estilização, incluindo o design responsivo e a transição entre os modos claro e escuro.
-* **JavaScript:** Lógica para adicionar, remover e marcar tarefas, além de salvar a lista no armazenamento local (`localStorage`).
+* **HTML:** Basic page structure.
+* **CSS:** Styling, including responsive design and the transition between light and dark modes.
+* **JavaScript:** Logic to add, remove, and mark tasks, as well as saving the list in local storage (`localStorage`).
 
-## Como Usar
+## How to Use
 
-1.  Clone o repositório para sua máquina local:
+1.  Clone the repository to your local machine:
     ```bash
     git clone [https://github.com/dudushore/to-do-list.git](https://github.com/dudushore/to-do-list.git)
     ```
 
-2.  Abra o arquivo `index.html` em seu navegador.
+2.  Open the `index.html` file in your browser.
 
-## Estrutura do Projeto
+## Project Structure
 
-O projeto é organizado com a seguinte estrutura de arquivos para manter o código limpo e organizado:
+The project is organized with the following file structure to keep the code clean and organized:
 
 ├── index.html
 ├── style.css
 ├── script.js
 └── images/
-  ├── dark.png
-  └── ... (outros ícones)
+├── dark.png
+└── ... (other icons)
 
-## Gif
+
+## GIF
 
 ![2025-08-22 14-51-43](https://github.com/user-attachments/assets/3326505c-35b6-4f46-91b1-49ab342aca34)
 
-## Contato
+## Contact
 
-* **GitHub:** (https://github.com/dudushore)
-* **LinkedIn:** (https://www.linkedin.com/in/dudushore/)
+* **GitHub:** [https://github.com/dudushore](https://github.com/dudushore)
+* **LinkedIn:** [https://www.linkedin.com/in/dudushore/](https://www.linkedin.com/in/dudushore/)
 
 ---
 Dudu Shore
